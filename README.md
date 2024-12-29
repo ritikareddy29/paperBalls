@@ -1,1 +1,1 @@
-# paperBalls
+# paper-balls
